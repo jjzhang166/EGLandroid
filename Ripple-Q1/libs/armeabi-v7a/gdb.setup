@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory D:/Downloads/Development/Tools/ADT2k12/android-ndk-r9/platforms/android-9/arch-arm/usr/include glm D:/Downloads/Development/Tools/ADT2k12/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include D:/Downloads/Development/Tools/ADT2k12/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/include D:/Downloads/Development/Tools/ADT2k12/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/backward jni
